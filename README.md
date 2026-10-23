@@ -47,6 +47,6 @@ An automated command-line utility featuring concurrency (`ThreadPoolExecutor`), 
 ---
 
 ## 📫 Connect with me
-- **GitHub**: [://github.com](https://github.com/joavat-2009)
+- **GitHub**: [https://github.com/joavat-2009](https://github.com/joavat-2009)
 - **Email**: [joavat2009@gmail.com](mailto:joavat2009@gmail.com)
 
