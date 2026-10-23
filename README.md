@@ -35,7 +35,7 @@ I am a developer and security enthusiast focused on **Network Reconnaissance, Au
 ---
 
 ## 🚀 Featured Projects
-### 📡 [Web-Recon — Multi-Threaded OSINT Framework](https://github.com)
+### 📡 [Web-Recon — Multi-Threaded OSINT Framework](https://github.com/joavat-2009/Web-Recon)
 An automated command-line utility featuring concurrency (`ThreadPoolExecutor`), SQLite database logging, and high network error resiliency.
 
 ---
