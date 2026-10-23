@@ -17,8 +17,20 @@ I am a developer and security enthusiast focused on **Network Reconnaissance, Au
 ---
 
 ## 🛠️ Tech Stack & Tooling
-- **Programming & Databases**: Python 3 (Multi-threading, exception handling), SQL (SQLite).
-- **Tools & Libraries**: `requests`, `python-whois`, Git.
+
+### 💻 Programming Languages
+- **Python 3**: Advanced script development, multi-threaded task management, resilient exception handling, and automation.
+
+### 🗄️ Databases & Storage
+- **SQL / SQLite**: Design of local relational databases, persistent logging systems, and safe execution with parameterized queries.
+- **Data Formats**: Structured reporting using clean JSON mapping and configuration assets.
+
+### 🌐 Networking & Cyber Security
+- **Environments**: Kali Linux architecture, Linux Bash Terminal scripting, advanced automated web-reconnaissance, and OSINT fingerprinting.
+- **Tools & Infrastructure**: Cisco Packet Tracer topology designs, network routing configurations and so on. 
+
+### ⚙️ Development Tools
+- **IDEs & Ecosystem**: PyCharm IDE, Git/GitHub integration, semantic release tracking, and automated documentation models.
 
 ---
 
